@@ -1,6 +1,6 @@
 # Financial Analysis: Petrobras vs Vale
 
-##[English version]
+# [English version]
 # Project Description
 This project performs a comparative financial analysis between Petrobras (PETR3/PETR4) and Vale (VALE3) stocks using technical indicators such as RSI (Relative Strength Index) and the 50-day and 200-day moving averages. The goal is to identify buy and sell points based on moving average crossovers and assess the strength of the price movement using RSI over the last 2 years.
 
@@ -20,7 +20,7 @@ NumPy: For numerical calculations.
 # Considerations
 This project was developed to demonstrate the use of technical indicators and the ability to manipulate financial data using Python. It is not intended as a buy or sell recommendation, but rather as an educational analysis to demonstrate the application of technical indicators in the financial market.
 
-## [Portuguese Version]
+# [Portuguese Version]
 # Descrição do Projeto
 Este projeto realiza uma análise financeira comparativa entre as ações da Petrobras (PETR3/PETR4) e Vale (VALE3) utilizando indicadores técnicos como o RSI (Índice de Força Relativa) e as médias móveis de 50 e 200 dias. O objetivo é identificar pontos de compra e venda de ações com base nos cruzamentos das médias móveis e avaliar a força do movimento de preço com o RSI ao longo dos últimos 2 anos.
 
